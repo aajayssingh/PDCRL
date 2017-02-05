@@ -54,31 +54,11 @@
          
 <h2>Sponsored Research Projects at IIT Hyderabad:</h2>
 <h3>Current Projects:</h3>
-
-<strong>Project Title: </strong> An Efficient Software Framework for High Performance Computing Systems  <br />
-<strong>Funding Agency:</strong> BRNS, DAE<br />
-<strong>Funding Amount:</strong> ~ Rs. 33 lakhs <br />
-<strong>Co-PIs: </strong> Dr. M.V.Panduranga Rao, CSE Department, IITH & Mr. B. Jagadeesh, BARC <br />
-<strong>Duration: </strong> July 2016 - July 2018 <br />
-<br />  
-
-<h3>Projects in Pipeline:</h3>
-<strong>Project Title:</strong> An Efficient Software Framework for developing Reliable Multi-threaded Applications for Multi-Core Architectures<br />
-<strong>Funding Agency:</strong> IMPRINT (selected at the end of Round 3) <br />  
-<br />  
-
-
-<h3>Completed Projects:</h3>
-<strong>Project Title: </strong> An Efficient Middleware based on Multi-Version Transactional Memory System for Multi-Core Systems  <br />
+<strong>Project Title: </strong> An Efficient Middleware for Multi-Core Systems using Transactional Memory Systems  <br />
 <strong>Funding Agency:</strong> ANURAG, DRDO<br />
-<strong>Funding Amount:</strong> Rs. 10 lakhs<br />
-<strong>Duration: </strong> March 2016 – November 2016 <br />
-<br />  
-<strong>Project Title: </strong> An Efficient Middleware for Multi-Core Systems using Transactional Memory Systems <br />
-<strong>Funding Agency:</strong> ANURAG, DRDO<br />
-<strong>Funding Amount:</strong> Rs. 10 lakhs <br />
-<strong>Duration: </strong> November 2014 -  November 2015 <br />
-<br />  
+<strong>Funding Amount:</strong> Rs. 10 lakhs
+ <br />
+<h3>Unrestricted Research Grant :</h3>
 <strong>Funding Agency:</strong> Microsoft Research Bangalore<br />
 <strong>Funding Amount:</strong> Rs. 2.5 Lakhs (~ 5000 USD) 
 <br /> <br />
@@ -88,27 +68,13 @@
 This project is a continuation of the project executed at IIT Patna
  <br /><br />
  
-<h2>Sponsored Research Projects Executed at IIT Patna:</h2>
-
-<strong>Project Title: </strong> Development of an Efficient Software Framework for Multi-Core Systems using Software Transactional Memory Systems  <br />
-<strong>Funding Agency:</strong> Naval Research Board<br />
-<strong>Funding Amount:</strong> Rs. 45 lakh (approx.) <br />
-<strong>Duration: </strong> May 2013 to April 2014 <br />
-<br />  
-<strong>Project Title: </strong> On Increasing Concurrency in Transactional Memory Systems  <br />
-<strong>Funding Agency:</strong> NetApp, Bangalore funded through NetApp Faculty Fellowship<br />
-<strong>Funding Amount:</strong> Rs. 12.5 lakh (approx.) <br />
-<strong>Duration: </strong> February 2013 to May 2014 <br />
-<br />
-<strong>Project Title: </strong> Development of a Secure Routing Framework for P2P networks using Gossip-based Protocols  <br />
-<strong>Funding Agency:</strong> Department of Information Technology , GoI<br />
-<strong>Funding Amount:</strong> Rs. 60 lakh (approx.) <br />
-<strong>Co-PIs: </strong> Dr. Somanath Tripathy <br />
-<strong>Duration: </strong> February 2011 to February 2014 <br />
-<br /> 
+<h3>Projects in Pipeline:</h3>
+<strong>Project Title:</strong> Making Big Data Platforms User-friendly and Easily Accessible using High Performance Computing.<br />
+<strong>Funding Agency:</strong> Department of Electronics and Information Technology (DeitY).
+ 
 
         </div>
-       <!-- <p class="pages"><small>Page 1 of 2</small> <span>1</span> <a href="#">2</a> <a href="#">&raquo;</a></p>-->
+        <p class="pages"><small>Page 1 of 2</small> <span>1</span> <a href="#">2</a> <a href="#">&raquo;</a></p>
       </div>
       <div class="sidebar">
       
